@@ -1,0 +1,7 @@
+*.class
+*.log
+*.tmp
+/.idea
+/.vscode
+/target
+/lib/mysql-connector-java*.jar

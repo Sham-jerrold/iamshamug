@@ -1,0 +1,1 @@
+Place your mysql-connector-java.jar here before deploying to Tomcat.
